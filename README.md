@@ -6,6 +6,9 @@ This repository contains a set of style modifications I made to enhance the visu
 
 ## Changes Made
 
+![alt text](https://github.com/DRakkola/react-admin-dashboard-master/blob/e295517dde8fdedf9320098c1c29b12ece712e05/public/assets/ScreenshotDark.png)
+
+![alt text](https://github.com/DRakkola/react-admin-dashboard-master/blob/e295517dde8fdedf9320098c1c29b12ece712e05/public/assets/ScreenshotLight.png)
 
 ### Color Scheme: 
 I revamped the color scheme to create a more harmonious and engaging visual experience. Careful consideration was given to the contrast and readability of text, buttons, and other elements to ensure accessibility.
