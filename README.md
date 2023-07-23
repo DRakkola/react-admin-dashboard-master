@@ -1,7 +1,21 @@
-# React Admin Dashboard
+# Styling Modifications to React Admin Dashboard
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+## Overview
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+This repository contains a set of style modifications I made to enhance the visual appeal and user experience of the project. The changes primarily focus on refining the user interface and improving the overall design aesthetics.
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+## Changes Made
+
+
+### Color Scheme: 
+I revamped the color scheme to create a more harmonious and engaging visual experience. Careful consideration was given to the contrast and readability of text, buttons, and other elements to ensure accessibility.
+
+### Layout Enhancements:
+The layout has been restructured to improve the organization of information and optimize the flow of content. This makes it easier for users to navigate and find relevant information.
+
+## Issues
+
+I noticed that the sidebar animation, while visually working correctly and providing a smooth user experience, is generating a console error. Despite its functionality, this error should be addressed to ensure the project's codebase is clean and error-free.
+
+
+
